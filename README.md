@@ -1,7 +1,7 @@
 # Kong IP Restriction Plugin Demo
 
 This repository demonstrates use of Kong's IP restriction plugin to deny or pass through the incoming request based on IP address.
-It has step-by-step commands and outputs for setting up a **Kong service**, **route**, and applying the **IP Restriction plugin** in a workspace (`demo`).
+It has step-by-step commands and outputs for setting up a **Kong service**, **route**, and applying the **IP Restriction plugin**.
 
 ---
 
